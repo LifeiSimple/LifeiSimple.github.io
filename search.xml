@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Markdown练习]]></title>
     <url>%2F2018%2F09%2F22%2FMarkdown%E7%BB%83%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[初级语法标题Markdown支持两种标题的语法，类 Setext 和类 atx 形式。 代码块第一种使用两次12345678```#include&lt;iostream&gt;using namespace std;int main()&#123; cout &lt;&lt; &quot;Hello World!&quot; &lt;&lt; endl; return 0;&#125; 第二种使用Tab打印1个制表符，就可以建立代码区块 #include&lt;iosteam&gt; using namespace std; int main() { return 0; }]]></content>
+    <content type="text"><![CDATA[初级语法1.标题 Markdown支持两种标题的语法，类 Setext 和类 atx 形式。 2.代码块 在列表中要使用2个制表符来建立代码区块 #include&lt;iostream&gt; using namespace std; int main() { cout &lt;&lt; &quot;Hello World!&quot; &lt;&lt; endl; return 0; } 不在列表中的话使用1个制表符来建立代码区块 #include&lt;iostream&gt; using namespace std; int main() { return 0; } 3.未完待续]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
