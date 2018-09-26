@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Markdown练习]]></title>
-    <url>%2F2018%2F09%2F22%2FMarkdown%E7%BB%83%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[初级语法 标题 Markdown支持两种标题的语法，类 Setext 和类 atx 形式。 代码块 在列表中要使用2个制表符来建立代码区块 1234567#include&lt;iostream&gt;using namespace std;int main()&#123; cout &lt;&lt; "Hello World!" &lt;&lt; endl; return 0;&#125; 不在列表中的话使用1个制表符来建立代码区块 123456#include&lt;iostream&gt;using namespace std;int main()&#123; return 0;&#125; 未完待续]]></content>
+    <title><![CDATA[英语单词表]]></title>
+    <url>%2F2018%2F09%2F26%2F%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%A1%A8%2F</url>
+    <content type="text"><![CDATA[Part 1 basic English grammar Subject + Verb The boy plays. Jack quickly eats hot noodles at home. Subject + Verb + Object I love apple. Bill kicks the red ball hard everyday. Subject + Verb + Adjective Lisa is pretty. She looks pretty tonight. Subject + Verb + Adverb The dog jumps high. the crazy brown dog jumps high. Subject + Verb + Noun I am a teacher. John is a smart student at school. Part 2 the 25 most common nouns: time, person, year, way, day, thing, man, world, life, hand, part, child, eye, woman, place, work, week, family, company, school, country, number, group, problem, fact. the 25 most common verbs: be, have, do, say, get, make, go, know, take, see, come, think, look, want, give, use, find, tell, ask, work, seem, feel, try, leave, call. the 25 most common adjectives: good, new, first, last, long, great, little, own, other, old, right, big, high, different, small, large, next, early, young, important, few, public, bad, same, able. the 25 other words must know: the, and, a, that, I, it, not, he, as, you, this, but, his, they, her, she, or, an, will, my, one, all, would, there, their. the 17 prepositions: to, of, in, for, on, with, at, by, from, up, about, into, over, after, beneath, under, above. Part 3 625 most used words: （动物）Animal: dog, cat, fish, brid, cow, pig, mouse, horse, wing, animal （交通）Transportation: train, plane, car, truck, bicycle, bus, boat, ship, tire, gasoline, (train), ticket, transportation （地点）Location: city, house, apartment, street/road, airport, train station, bridge, hotel, restaurant, farm, court, school, office, room, town, university, club, bar, park, camp, store/shop, theater, library, hospital, church, market, country (USA, France, etc.), building, ground, space (outer space), bank, location （衣服) Clothing:]]></content>
       <categories>
-        <category>Markdown</category>
+        <category>英语学习</category>
       </categories>
       <tags>
-        <tag>Markdown</tag>
+        <tag>英语词汇</tag>
       </tags>
   </entry>
 </search>
